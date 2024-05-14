@@ -11,3 +11,7 @@
 | using resnet architecture as feature extractor - cropped images,80-20 train/val split  | r50_imp1_cropped.ipynb    | resnet_improved/r50_imp1_cropped.ipynb   |
 | using resnet architecture as feature extractor - cropped images,92-8 train/val split    | r50_imp2_cropped.ipynb    | resnet_improved/r50_imp2_cropped.ipynb    |
 | using a 4 layer cnn to extract features with random forest classifier    | cnn_and_rf.ipynb    | cnn_from_scratch/cnn_and_rf.ipynb    |
+
+
+- Here is a link to the project report : 
+[Breast_Cancer.pdf](https://github.com/KartikThakkar1/Breast-Cancer-Image-Classification-on-Mammography-Images/files/15301267/Breast_Cancer.pdf)
